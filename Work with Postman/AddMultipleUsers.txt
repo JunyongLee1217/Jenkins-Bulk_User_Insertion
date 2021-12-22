@@ -1,0 +1,17 @@
+x-www-from-urlencoded
+
+username:{{username}}
+password1:{{password1}}
+password2:{{password2}}
+fullname:{{fullname}}
+email:{{email}}
+
+Pre-request Script
+
+pm.environment.set("username", data.username);
+pm.environment.set("password1", data.password1);
+pm.environment.set("password2", data.password2);
+pm.environment.set("fullname", data.fullname);
+pm.environment.set("email", data.email);
+
+

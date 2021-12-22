@@ -1,0 +1,14 @@
+x-www-form-urlencoded:
+
+json: {"globalRoles": {"data": {"luo": {"admin": true, "student": true}, "luo3": {"admin": true, "student": true},  "luo6": { "student": true,"teacher":true}, "xuye": {"admin": false, "student": true}, "anonymous": {"admin": false, "student": false},"luo10": {"admin": false, "student": true}, "username":{"student":true, "teacher": true,"admin":true },   } }, "projectRoles": {"": ""}, "slaveRoles": {"": ""}, "core:apply": ""}
+
+
+POST:
+
+http://localhost:8080/role-strategy/assignSubmit
+
+
+403 code:
+
+hudson.security.csrf.GlobalCrumbIssuerConfiguration.DISABLE_CSRF_PROTECTION = true
+

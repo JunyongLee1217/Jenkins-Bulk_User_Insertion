@@ -1,0 +1,5 @@
+username:user1
+password1:111
+password2:111
+fullname:user1
+email:user1@nmsu.edu

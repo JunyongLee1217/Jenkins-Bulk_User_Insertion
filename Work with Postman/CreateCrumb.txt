@@ -1,0 +1,8 @@
+/* This is how to create crumb.
+* Each request of jenkins api needs to have what is known as a crumb defined in the header for each post request.
+*
+*/
+
+GET http://localhost:8080/crumbIssuer/api/json
+
+Basic Auth ID/Password

@@ -1,0 +1,47 @@
+User statistics, generated on 2020-05-14 11:14:15.803129
+------
+User: JITHIN JACOB BENJAMIN JACOB commits:20       pullrequests:1        othermerges:0       
+   filetype:.jelly     added:13         removed:13
+   filetype:.html      added:3          removed:3
+   filetype:.java      added:89         removed:89
+   filetype:.xml       added:56         removed:56
+   binfile:no-ext      number:14
+   binfile:.jpg        number:4
+------
+User: unknown          commits:1        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:849        removed:0
+   filetype:.properties added:78         removed:0
+   filetype:.prefs     added:7          removed:0
+   filetype:.jelly     added:16         removed:0
+   filetype:.txt       added:13         removed:0
+   filetype:.html      added:58         removed:0
+   filetype:.xml       added:100        removed:0
+   filetype:.java      added:319        removed:0
+   binfile:.hpi        number:1
+------
+User: JunyongLee1217   commits:12       pullrequests:2        othermerges:1       
+   filetype:no-ext     added:2          removed:1
+   filetype:.csv       added:18         removed:9
+   filetype:.java      added:486        removed:258
+   filetype:.txt       added:25         removed:22
+   filetype:.xml       added:9          removed:9
+   binfile:.jar        number:1
+------
+User: Jonathan Cook    commits:2        pullrequests:0        othermerges:0       
+   filetype:.txt       added:57         removed:11
+------
+User: XUYE LUO         commits:17       pullrequests:6        othermerges:0       
+   filetype:no-ext     added:2          removed:1
+   filetype:.csv       added:9          removed:0
+   filetype:.java      added:168        removed:3
+   filetype:.txt       added:34         removed:0
+------
+User: Mahlet Zemedie   commits:15       pullrequests:3        othermerges:0       
+   filetype:.xml       added:13         removed:1
+   filetype:.java      added:665        removed:172
+   filetype:.txt       added:5          removed:0
+   filetype:no-ext     added:2          removed:1
+   binfile:.PNG        number:1
+   binfile:.jpg        number:1
+   binfile:.png        number:2
+------
